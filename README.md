@@ -1,6 +1,6 @@
 <h1 align="center">🫡Hey there, this is Kshitij !</h1>
 # 💫 About Me:
-💫About Me:<br><br>☕Currently high on coffee and backend development<br>🎓Btw, I'm an IT graduate(2024)<br>⌨️Working on more than one branch(technology)<br>🎃Basically a jack of all trades, trying to be a master
+<br><br>☕Currently high on coffee and backend development<br>🎓Btw, I'm an IT graduate(2024)<br>⌨️Working on more than one branch(technology)<br>🎃Basically a jack of all trades, trying to be a master
 
 
 ## 🌐 Socials:
